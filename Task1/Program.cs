@@ -9,8 +9,8 @@ namespace Task1
             Console.WriteLine("Рядок 1");
             Console.WriteLine("Рядок 2");
             Console.WriteLine("Рядок 3");
-            Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-            Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+            Console.WriteLine("Четвертий рядок");
+            Console.WriteLine("Рядок №5");
         }
     }
 }
