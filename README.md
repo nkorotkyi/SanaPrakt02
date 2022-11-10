@@ -13,4 +13,4 @@
 - [ ] GitLab
 - [ ] Bitbucket
 
-Korotkyi Nikita
+Виконав: Короткий Микита
